@@ -24,7 +24,7 @@
         android:ems="10"
         android:inputType="textEmailAddress"
         android:textColor="#fff"
-        android:id="@+id/edt_loginEmail"
+        android:id="@+id/activity_main_edt_loginEmail"
         />
 
     <EditText
@@ -36,7 +36,7 @@
         android:inputType="textPassword"
         android:textColor="#fff"
         android:layout_marginTop="10dp"
-        android:id="@+id/edt_loginPassword"
+        android:id="@+id/activity_main_edt_loginPassword"
         />
 
     <Button
